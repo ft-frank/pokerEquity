@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="pokerEquity.vcxproj" Id="bd014d3d-7a63-4b56-8b98-dd19144566aa" />
+</Solution>
